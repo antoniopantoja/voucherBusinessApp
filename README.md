@@ -29,36 +29,39 @@ Foi desenvolvindo uma API em node.js vou deixa aqui o caminho do Repositorio par
 ### Preview
 Todo o código fonte e os recursos do Voucher Business estão disponíveis no GitHub, permitindo que desenvolvedores simpatizantes e interessados possam acessar, estudar e contribuir para o projeto. Para te acesso ao todo o codigo você pode entra em contato pelo E-mail : antoniopantojasr@gmail.com
 <p align="center">
-  <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp1.jpeg" width="100" alt="React Native - voucherBusinessApp">
-  <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp2.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp3.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp4.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp5.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp6.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp7.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp8.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp9.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp10.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp11.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp12.jpeg" width="100" alt="React Native - voucherBusinessApp">
+  <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp1.jpeg" width="100" alt="React Native - voucherBusinessApp">
+  <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp2.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp3.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp4.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp5.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp6.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp7.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp8.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp9.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp10.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp11.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp12.jpeg" width="100" alt="React Native - voucherBusinessApp">
+</p>
+
+<p align="center">
+  <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/Voucher Business.gif" width="150" alt="React Native - voucherBusinessApp">
 </p>
 
 ### Preview nocturnal
 
 <p align="center">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp13.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp14.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp15.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp16.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp17.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp18.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp19.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp20.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp21.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp22.jpeg" width="100" alt="React Native - voucherBusinessApp">
-    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusinessApp23.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp13.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp14.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp15.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp16.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp17.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp18.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp19.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp20.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp21.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp22.jpeg" width="100" alt="React Native - voucherBusinessApp">
+    <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/voucherBusinessApp23.jpeg" width="100" alt="React Native - voucherBusinessApp">
 </p>
 <p align="center">
-  <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/Voucher Business.gif" width="150" alt="React Native - voucherBusinessApp">
-  <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/Voucher Business Noturna.gif" width="150" alt="React Native - voucherBusinessApp">
+  <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/Voucher Business Noturna.gif" width="150" alt="React Native - voucherBusinessApp">
 </p>
