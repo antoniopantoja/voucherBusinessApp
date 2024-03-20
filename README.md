@@ -21,6 +21,11 @@ The purpose of Voucher Business is to provide a learning experience and demonstr
 
 O objetivo do Voucher Business é proporcionar uma experiência de aprendizado e demonstração do desenvolvimento mobile com React Native. O aplicativo visa ensinar os conceitos básicos e avançados do desenvolvimento de aplicativos móveis, demonstrando na prática como criar um aplicativo funcional e interativo. Além disso, o Voucher Business tem como objetivo servir de exemplo para desenvolvedores interessados em aprender ou aprimorar seus conhecimentos em React Native.
 
+#### 4.1 Descrição do APP:
+Voucher Business is an application that allows a company to reward its employees based on their performance and goals achieved. It offers stores with products accredited by the company, where employees can exchange points for exclusive products.
+
+O Voucher Business é um aplicativo que permite que uma empresa recompense seus colaboradores com base em seu desempenho e metas alcançadas. Ele oferece lojas com produtos credenciados pela empresa, onde o colaborador pode trocar pontos por produtos exclusivos.
+
 ### 5.API
 I was developing an API in node.js and will leave here the Repository path for project instructions running on your local machine for development and testing purposes. See Implementation for notes on deploying the project to a live system.
 
