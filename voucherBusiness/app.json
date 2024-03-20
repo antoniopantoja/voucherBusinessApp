@@ -1,0 +1,17 @@
+{
+  "name": "App",
+  "displayName": "App",
+  "expo": {
+    "ios": {
+      "requireFullScreen": true
+    },
+    "plugins": [
+      [
+        "expo-screen-orientation",
+        {
+          "initialOrientation": "DEFAULT"
+        }
+      ]
+    ]
+  }
+}
